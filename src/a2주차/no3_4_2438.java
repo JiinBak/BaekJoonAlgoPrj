@@ -2,7 +2,7 @@ package a2주차;
 
 import java.util.Scanner;
 
-public class no3_2438 {
+public class no3_4_2438 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();

@@ -2,7 +2,7 @@ package a2주차;
 
 import java.util.Scanner;
 
-public class no3_2939_2 {
+public class no3_3_2939_2 {
 	public static void main(String[] args) {
 		System.out.println("몇단까지 출력하시겠습니까?");
 		Scanner scan = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package a2주차;
 import java.util.Scanner;
 
-public class no1_11718 {
+public class no1_7_11718 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		String str = "";

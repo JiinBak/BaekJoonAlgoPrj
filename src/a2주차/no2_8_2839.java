@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class no2_2839 {
+public class no2_8_2839 {
 	public static void main(String[] args) {
 		ArrayList<Integer> sums = new ArrayList<>();
 		Scanner scan = new Scanner(System.in);
