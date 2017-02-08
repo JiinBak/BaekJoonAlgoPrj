@@ -14,7 +14,7 @@ public class no2_2839 {
 			for(int j=0;j<sugar/3+1;j++){
 				if(5*i+3*j==sugar){
 					//i->5kg봉지 갯수, j->3kg 봉지갯수
-					//System.out.println(i+"(5kg)+"+j+"(3kg) ="+(i+j)); //봉지조합확인
+					System.out.println(i+"(5kg)+"+j+"(3kg) ="+(i+j)); //봉지조합확인
 					sums.add(i+j); //총 봉지갯수 arraylist에 넣기					
 				}
 			}
