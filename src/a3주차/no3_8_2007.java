@@ -17,9 +17,8 @@ public class no3_8_2007 {
 		}else{
 			for(int i=0;i<mon-1;i++){
 				sum+=days[i]; //전월까지의 날짜합
-				sum+=day;//해당월의 날짜
 			}
-
+			sum+=day;//해당월의 날짜
 		}
 		//System.out.println(sum); //확인
 		
